@@ -1,0 +1,2 @@
+# PianoProject_tinkercad
+ This is a digital piano project, and the electric piano has been turned on and off via pin changes. Seven distinct switches have been used to play each note of the piano at a different frequency, which is performed using a bit banging algorithm and controlled by an ADC. The LED will turn on when the switches are pressed. Users can adjust the Metronome setting to play each song at their desired tempo. The software will restart if the user does not play piano for 10 seconds. The LED Matrix was used to display the first letter of the piano, "P”. 
